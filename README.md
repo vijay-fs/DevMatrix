@@ -1,16 +1,4 @@
-# kriyadocs JSON Schema View Builder documentation
+# DevMatrix
 
-This is documentation for Kriyadocs JSON schema View builder. The builder will render views based on JSON schema and arrange elements on the screen according to the definition.
+Welcome to DevMatrix, a comprehensive cookbook designed to streamline and document various technologies, tools, and processes. The idea behind this project is to create a personal, easy-to-access resource that can be referred to whenever needed. Whether it's for solving a problem, implementing best practices, or quickly referencing complex workflows, DevMatrix is intended to be a one-stop guide. This documentation is continuously evolving, keeping pace with new insights, experiences, and technological advancements, ensuring that everything you need is at your fingertips.
 
-The screens can be broken down to the following parts:
-
-- Layout view (12 column grid)
-- Sections
-- Elements
-- Actions
-
-## Local Development
-
-First, run `yarn install` to install the dependencies.
-
-Then, run `yarn dev` to start the development server and visit localhost:3000.
